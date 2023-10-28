@@ -1,3 +1,6 @@
 [submodule "blog-personal-diary"]
 	path = blog-personal-diary
 	url = git@github.com:s1ckret/blog-personal-diary.git
+[submodule "blog-gym-diary"]
+	path = blog-gym-diary
+	url = git@github.com:s1ckret/blog-gym-diary.git
