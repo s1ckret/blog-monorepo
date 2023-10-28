@@ -16,3 +16,6 @@
 [submodule "blog-carbonara-review"]
 	path = blog-carbonara-review
 	url = git@github.com:s1ckret/blog-carbonara-review.git
+[submodule "blog"]
+	path = blog
+	url = git@github.com:s1ckret/blog.git
