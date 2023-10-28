@@ -7,3 +7,6 @@
 [submodule "blog-startup"]
 	path = blog-startup
 	url = git@github.com:s1ckret/blog-startup.git
+[submodule "blog-book-review"]
+	path = blog-book-review
+	url = git@github.com:s1ckret/blog-book-review.git
