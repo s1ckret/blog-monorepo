@@ -13,3 +13,6 @@
 [submodule "blog-cookbook"]
 	path = blog-cookbook
 	url = git@github.com:s1ckret/blog-cookbook.git
+[submodule "blog-carbonara-review"]
+	path = blog-carbonara-review
+	url = git@github.com:s1ckret/blog-carbonara-review.git
