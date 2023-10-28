@@ -10,3 +10,6 @@
 [submodule "blog-book-review"]
 	path = blog-book-review
 	url = git@github.com:s1ckret/blog-book-review.git
+[submodule "blog-cookbook"]
+	path = blog-cookbook
+	url = git@github.com:s1ckret/blog-cookbook.git
