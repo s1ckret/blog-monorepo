@@ -20,3 +20,9 @@ cd blog-monorepo
 ```shell
 git submodule update --recursive
 ```
+
+4. Update submodules time from time
+
+```shell
+git submodule foreach git pull
+```
